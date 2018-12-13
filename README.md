@@ -1,4 +1,11 @@
-# YoudsFramework
+# Youds Framework
+
+* Run chmod +x bin/youds-framework-dist
+* Then execute ./bin/youds-framework-dist to generate a project.
+
+See http://framework.youds.com for more information, or see project creators website at http://www.youds.com.
+
+# Youds Framework (previously Agavi)
 
 - License: LGPL
 - Latest Version: [![Latest Stable Version](https://poser.pugx.org/youds/youds/version.png)](https://packagist.org/packages/youds/youds)
